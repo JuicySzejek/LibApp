@@ -1,0 +1,45 @@
+﻿﻿﻿@using Microsoft.AspNetCore.Identity
+
+@model LibApp.ViewModels.LoginViewModel
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <form asp-action="Login" method="post" class="needs-validation" novalidate>
+                        <h3 class="text-center">Login</h3>
+                        <p class="text-center">If you do not have an account, please contact the librarian.</p>
+
+                        <div class="form-group">
+                            <label asp-for="Email" class="login-labels">Email</label>
+                            <input asp-for="Email" class="form-control login-inputs" required />
+                            <span asp-validation-for="Email" class="text-danger login-spans"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Password" class="login-labels">Password</label>
+                            <input asp-for="Password" type="password" class="form-control login-inputs" required />
+                            <span asp-validation-for="Password" class="text-danger login-spans"></span>
+                        </div>
+
+                        <button type="submit" class="btn btn-primary login-button">Log in</button>
+
+                        @if (TempData["Error"] != null)
+                        {
+                            <div class="alert alert-danger mt-3">
+                                <p>@TempData["Error"]</p>
+                            </div>
+                        }
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

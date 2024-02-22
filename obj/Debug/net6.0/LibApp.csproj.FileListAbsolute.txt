@@ -1,0 +1,164 @@
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\libman.json
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\LibApp.staticwebassets.runtime.json
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\LibApp.exe
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\LibApp.deps.json
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\LibApp.runtimeconfig.json
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\LibApp.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\LibApp.pdb
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.csproj.AssemblyReference.cache
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.AssemblyInfoInputs.cache
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.AssemblyInfo.cs
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.RazorAssemblyInfo.cache
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.RazorAssemblyInfo.cs
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\staticwebassets\msbuild.LibApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\staticwebassets\msbuild.build.LibApp.props
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LibApp.props
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LibApp.props
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\scopedcss\bundle\LibApp.styles.css
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\scopedcss\projectbundle\LibApp.bundle.scp.css
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.csproj.CopyComplete
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\refint\LibApp.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.pdb
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.genruntimeconfig.cache
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\obj\Debug\net6.0\ref\LibApp.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hubert\Desktop\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\libman.json
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\LibApp.staticwebassets.runtime.json
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\LibApp.exe
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\LibApp.deps.json
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\LibApp.runtimeconfig.json
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\LibApp.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\LibApp.pdb
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.csproj.AssemblyReference.cache
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.AssemblyInfoInputs.cache
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.AssemblyInfo.cs
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.RazorAssemblyInfo.cache
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.RazorAssemblyInfo.cs
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\staticwebassets\msbuild.LibApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\staticwebassets\msbuild.build.LibApp.props
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LibApp.props
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LibApp.props
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\scopedcss\bundle\LibApp.styles.css
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\scopedcss\projectbundle\LibApp.bundle.scp.css
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.csproj.CopyComplete
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\refint\LibApp.dll
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.pdb
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\LibApp.genruntimeconfig.cache
+C:\Users\Hubert\Desktop\Nowy folder (2)\Zadanie\Lab-2AD-main\LibApp\obj\Debug\net6.0\ref\LibApp.dll

@@ -1,0 +1,93 @@
+﻿@model IEnumerable<LibApp.Models.User>
+
+@{
+    ViewBag.Title = "Customers";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Customers</h2>
+<a class="btn btn-primary" asp-action="CustomerForm">New Customer</a>
+
+<table id="userTable" class="table table-hover">
+    <thead>
+        <tr>
+            <th>Customer</th>
+            <th>Detail</th>
+            <th>Membership type</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+
+@section Scripts
+    {
+    <script>
+        $(document).ready(function () {
+            var apiUrl = "@(User.IsInRole("owner") ? "/api/customers/getall" : "/api/customers/")";
+
+            $.ajax({
+                url: apiUrl,
+                method: "GET",
+                dataType: "json",
+                success: function (data) {
+                    $.each(data, function (index, user) {
+                        var newRow = $("<tr>").append(
+                            $("<td>").text(user.name),
+                            $("<td>").append(
+                                $("<a>").attr("href", "/Customers/Details/" + user.id)
+                                    .append($("<button>").text("Details").addClass("btn btn-secondary"))
+                            ),
+                            $("<td>").text(user.membershipType ? user.membershipType.name : ""),
+                            $("<td>").append(
+                                $("<button>").text("Delete").attr("data-user-id", user.id).addClass("btn btn-danger delete-btn")
+                            )
+                        );
+
+                        $("#userTable tbody").append(newRow);
+                    });
+                },
+                error: function (error) {
+                    console.error("Error fetching data:", error);
+                }
+            });
+            $("#userTable").on("click", ".details-btn", function () {
+                var userId = $(this).data("user-id");
+                console.log("Details button clicked for user with ID: " + userId);
+            });
+
+            $("#userTable").on("click", ".delete-btn", function () {
+                var button = $(this);
+                var userId = button.data("user-id");
+
+                bootbox.confirm({
+                    message: 'Delete customer?',
+                    buttons: {
+                        cancel: {
+                            label: '<i class="fa fa-times"></i> Cancel'
+                        },
+                        confirm: {
+                            label: '<i class="fa fa-check"></i> Confirm'
+                        }
+                    },
+                    callback: function (result) {
+                        if (result) {
+                            console.log("ID:" + userId);
+                            $.ajax({
+                                url: "/api/customers/" + userId,
+                                method: "DELETE",
+                                success: function () {
+                                    button.parents("tr").remove();
+                                },
+                                error: function (error) {
+                                    console.error("Error deleting customer:", error);
+                                }
+                            });
+                        }
+                    }
+                });
+            });
+        });
+    </script>
+}

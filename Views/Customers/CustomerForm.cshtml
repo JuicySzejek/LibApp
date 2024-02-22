@@ -1,0 +1,60 @@
+﻿@model LibApp.ViewModels.CustomerViewModel
+
+@{
+    ViewBag.Title = "Customer Form";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>New Customer</h2>
+@using (Html.BeginForm("Save", "Customers"))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Email)
+        @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Email)
+    </div>
+    @if(User.IsInRole("owner")){
+        <p>Can not change password</p>
+    }
+    <div class="form-group">
+        @Html.LabelFor(m => m.Password)
+        @Html.TextBoxFor(m => m.Password, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Password)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.User.Name)
+        @Html.TextBoxFor(m => m.User.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.User.Name)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.User.LastName)
+        @Html.TextBoxFor(m => m.User.LastName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.User.LastName)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.User.Birthdate)
+        @Html.TextBoxFor(m => m.User.Birthdate, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.User.Birthdate)
+    </div>
+
+    <div class="form-check">
+        <label class="form-check-label" for="flexCheckDefault">
+            @Html.CheckBoxFor(m => m.User.HasNewsletterSubscribed)
+            Subscribed to Newsletter?
+        </label>
+    </div>
+
+    <div class="form-check">
+        @Html.LabelFor(m => m.User.MembershipTypeId)
+        @Html.DropDownListFor(m => m.User.MembershipTypeId, new SelectList(Model.MembershipTypes, "Id", "Name"), "Select Membership Type", new { @class = "form-control" })
+    </div>
+
+    @Html.HiddenFor(m => m.User.Id)
+    @Html.ValidationSummary()
+    @Html.AntiForgeryToken()
+    <button type="submit" class="btn btn-primary">Save</button>
+
+}
